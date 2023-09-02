@@ -3,8 +3,8 @@
 Hello, my name is Andre de Oliveira
 
 ##My hobbies
-- Watch football
-- Play videogames
+- Puzzle Solving
+- Play Videogames
 
 ##Currently learning...
 - Git and GitHub
