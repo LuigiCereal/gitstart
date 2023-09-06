@@ -10,6 +10,7 @@ Hello, my name is Andre de Oliveira
 - Git and GitHub
 - React
 - Javascript and Typescript
+- HTML & CSS
 
 ##My contact
 E-mail: andre.oliveira02@outlook.com
