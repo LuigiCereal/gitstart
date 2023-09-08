@@ -1,7 +1,8 @@
 #Welcome to my profile
 
-Hello, my name is Andre de Oliveira
-I am currently living in swindon 🇬🇧 
+Hello, my name is Andre de Oliveira, I am currently learning in the platform Staart.
+
+Currently living in swindon 🇬🇧 
 
 ##My hobbies
 - Watch football
