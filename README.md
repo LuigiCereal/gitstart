@@ -1,6 +1,7 @@
 #Welcome to my profile
 
-Hello, my name is Andre de Oliveira
+Hello, my name is Andre de Oliveira, I am now studying at a platform called Staart
+
 I am currently living in swindon 🇬🇧 
 
 ##My hobbies
